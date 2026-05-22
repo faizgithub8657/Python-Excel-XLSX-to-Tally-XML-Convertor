@@ -64,4 +64,4 @@ python converter.py input.xlsx output.xml Sheet1
 
 ---
 
-© ABHL & Associates, Chartered Accountants — FRN 139200W
+© ABHL & Associates, Chartered Accountants
