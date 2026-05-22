@@ -3,7 +3,7 @@
 A web tool by **ABHL & Associates, Chartered Accountants** that converts
 an Excel voucher sheet into a Tally Prime-importable XML file.
 
-🔗 **Live app:** _(URL appears after deployment)_
+🔗 **Live app:** https://abhl-tally.streamlit.app
 
 ## How to use
 
